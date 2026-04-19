@@ -1,0 +1,17 @@
+sector:
+  space:
+    stocks:
+      rocket-lab: rklb
+      ast-spacemobile: asts
+      planet-labs: pl
+      red-wire: rdw
+      black-sky: bksy
+      iridium: irdm
+      intuitive-machines: lunr
+      spire-global: spir
+      viasat: vsat
+      lockheed-martin-corp: lmt
+      northrop-grumman-corp: noc
+      boeing-co: ba
+      kratos-defense-&-security-solutions-inc: ktos
+    
