@@ -1,17 +1,31 @@
-sector:
+sectors:
   space:
-    stocks:
-      rocket-lab: rklb
-      ast-spacemobile: asts
-      planet-labs: pl
-      red-wire: rdw
-      black-sky: bksy
-      iridium: irdm
-      intuitive-machines: lunr
-      spire-global: spir
-      viasat: vsat
-      lockheed-martin-corp: lmt
-      northrop-grumman-corp: noc
-      boeing-co: ba
-      kratos-defense-&-security-solutions-inc: ktos
-    
+    display_name: "Space"
+    description: "Launch, satellites, and space infrastructure"
+    tickers:
+      - symbol: RKLB
+        name: Rocket Lab
+      - symbol: ASTS
+        name: AST SpaceMobile
+      - symbol: PL
+        name: Planet Labs
+      - symbol: RDW
+        name: Redwire
+      - symbol: BKSY
+        name: BlackSky
+      - symbol: IRDM
+        name: Iridium
+      - symbol: LUNR
+        name: Intuitive Machines
+      - symbol: SPIR
+        name: Spire Global
+      - symbol: VSAT
+        name: Viasat
+      - symbol: LMT
+        name: Lockheed Martin
+      - symbol: NOC
+        name: Northrop Grumman
+      - symbol: LHX
+        name: L3Harris
+      - symbol: KTOS
+        name: Kratos Defense

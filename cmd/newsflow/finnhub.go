@@ -1,3 +1,6 @@
 package newsflow
 
-func 
+func CompanyNews(ticker string) {}
+func Quote()                    {}
+func EarningsCalendar()         {}
+func StockInsiderTransactions() {}
