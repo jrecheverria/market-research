@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	finnhub "github.com/Finnhub-Stock-API/finnhub-go"
 	"github.com/jrecheverria/market-research/cmd/newsflow"
 	"net/http"
