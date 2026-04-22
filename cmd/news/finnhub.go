@@ -1,4 +1,4 @@
-package newsflow
+package news
 
 import (
 	"context"

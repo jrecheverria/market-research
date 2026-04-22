@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS articles (
+	id INTEGER PRIMARY KEY,
+	sector INTEGER NOT NULL,
+	source TEXT NOT NULL,
+	title TEXT NOT NULL,
+	url TEXT NOT NULL,
+	content TEXT NOT NULL,
+	published_at TEXT NOT NULL,
+	fetched_at TEXT NOT NULL
+);
